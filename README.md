@@ -27,3 +27,5 @@
 <h3>7) Crie um componente MovieCard</h3>
 <p> Este componente deve criar um card com as informações de um filme, tais como: nome, ano, imagem.</p>
 </div>
+
+<h2>Pair programming feito dia 18 de agosto como esquenta do projeto</h2>
